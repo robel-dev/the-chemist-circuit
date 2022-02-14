@@ -53,3 +53,5 @@ More images inside screenshots directory
 ![alt text](https://github.com/robel-dev/the-chemist-circuit/blob/main/screenshots/homepage.png)
 
 ![alt text](https://github.com/robel-dev/the-chemist-circuit/blob/main/screenshots/abebeprofilepage.png)
+
+....more pictures inside screenshots directory
