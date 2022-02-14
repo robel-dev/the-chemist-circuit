@@ -23,7 +23,7 @@
     "eject": "react-scripts eject"
   },
   "proxy": "http://127.0.0.1:5000/",
-  "homepage": "http://myname.github.io/myapp",
+  
   "eslintConfig": {
     "extends": "react-app"
   },
